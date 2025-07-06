@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Prashant/MLOps/MLOps_first_project/mlruns/0/d7a5d9687826490c8d923ddb8b637d32/artifacts
+end_time: 1751806338981
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d7a5d9687826490c8d923ddb8b637d32
+run_name: bright-deer-794
+run_uuid: d7a5d9687826490c8d923ddb8b637d32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751806333712
+status: 4
+tags: []
+user_id: 221pr
